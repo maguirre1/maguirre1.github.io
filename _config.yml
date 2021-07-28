@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Aguirre"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew Aguirre"
 description              : &description "PhD student in Biomedical Informatics at Stanford University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matthew Aguirre"
   avatar           : "profile.png"
-  bio              : "PhD student in Biomedical Informatics (BMI) at Stanford University. One small analyst in a big data world."
+  bio              : "PhD student in Biomedical Informatics at Stanford University. Just one small analyst in a big data world."
   location         : "Stanford, CA"
   employer         :
   pubmed           : 
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true

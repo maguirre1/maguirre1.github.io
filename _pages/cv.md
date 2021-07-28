@@ -11,48 +11,48 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Biomedical Informatics, Stanford University, 2024 (planned)
 * B.A. in Applied Mathematics, Harvard University, 2017
-* Ph.D in Biomedical Informatics, Stanford University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019-Present: Ph.D student in Biomedical Informatics with [Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html) 
+  * Stanford University
+  * Currently working on network-based models to assess the genetic architecture of complex traits.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2017-Summer 2019: Research data analyst with [Manuel Rivas](https://med.stanford.edu/rivaslab.html) and [James Priest](https://priestlab.stanford.edu/) 
+  * Stanford University 
+  * Conducted large-scale studies in genetic epidemiology and contributed to the [Global Biobank Engine](https://biobankengine.stanford.edu/).
+
+* Summer 2015-Spring 2017: Undergraduate researcher in the [MacArthur Lab](https://macarthurlab.org/) and [Data Science Platform](https://www.broadinstitute.org/data-sciences-platform) 
+  * Broad Institute of MIT and Harvard
+  * Contributed to data quality control for the [gnomAD](https://gnomad.broadinstitute.org/) project
+
+<!-- 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matthew Aguirre is an unskilled worker.
+-->
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul reversed>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+<!--  
   
 Service and leadership
 ======
-* Currently signed in to 13 different slack teams
+* Currently signed in to 13 different slack teams -->
