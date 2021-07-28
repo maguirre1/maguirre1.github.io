@@ -31,12 +31,12 @@ Work experience
 <!-- 
 Skills
 ======
-* Matthew Aguirre is an unskilled worker.
+* 
 -->
 
 Publications
 ======
-  <ul reversed>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
