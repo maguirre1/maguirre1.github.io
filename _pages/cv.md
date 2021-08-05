@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Biomedical Informatics, Stanford University, 2024 (planned)
-* B.A. in Applied Mathematics, Harvard University, 2017
+* B.A. in Applied Mathematics, *cum laude*, Harvard University, 2017
 
 Work experience
 ======
