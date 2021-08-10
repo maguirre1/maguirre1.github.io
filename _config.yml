@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Aguirre"
-  avatar           : "images/smile.jpg"
+  avatar           : "profile.png"
   bio              : "PhD student in Biomedical Informatics at Stanford University. Just one small analyst in a big data world."
   location         : "Stanford, CA"
   employer         :
