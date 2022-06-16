@@ -8,7 +8,7 @@ date: 2021-01-06
 location: "Stanford, CA"
 ---
 
-I was a graduate student mentor for the [Inclusive Mentoring in Data Science](https://med.stanford.edu/dbds/education/mentoring-in-data-science.html) Program under supervision from Professor Chiara Sabatti. I held weekly mentor meetings and developed personalized data science curriculums for undergraduate and community college students from backgrounds currently underrepresented in data science. As part of the deparment course offering, I also participated in mentor meetings and seminars designed to strengthen teaching and mentorship skills. I was a program mentor in Winter 2021 (IMDS' inaugural year) and Winter 2022.  
+I was a graduate student mentor for the [Inclusive Mentoring in Data Science](https://med.stanford.edu/dbds/education/mentoring-in-data-science.html) Program under supervision from Professor Chiara Sabatti. I held weekly mentee meetings and developed personalized data science curriculums for undergraduate and community college students from backgrounds currently underrepresented in data science. As part of the deparment course offering, I also participated in mentor meetings and seminars designed to strengthen teaching and mentorship skills. I was a program mentor in Winter 2021 (IMDS' inaugural year) and Winter 2022.  
 
 A description of the course is below. Please see the linked website above for more information about the IMDS program. 
 

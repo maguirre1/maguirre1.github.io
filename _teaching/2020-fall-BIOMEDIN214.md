@@ -8,7 +8,7 @@ date: 2020-09-23
 location: "Stanford, CA"
 ---
 
-I was a course grader for BIOMEDIN 214: Representations and Algorithms for Computational Molecular Biology, with Professor Russ Altman. I held graded coursework and coordinated course logistics and feedback with the teaching staff. This course is part of the core curriculum in [Biomedical Informatics](https://med.stanford.edu/bmi.html) at Stanford. I was on course staff in Fall 2020 and Fall 2021. 
+I was a course grader for BIOMEDIN 214: Representations and Algorithms for Computational Molecular Biology, with Professor Russ Altman. I graded assignments and coordinated course logistics and feedback with the teaching team. This course is part of the core curriculum in [Biomedical Informatics](https://med.stanford.edu/bmi.html) at Stanford. I was on course staff in Fall 2020 and Fall 2021. 
 
 A description of the course is below. NB: the course was cross-listed in the departments of Bioengineering (BIOE214), Computer Science (CS274), and Genetics (GENE214).
 
