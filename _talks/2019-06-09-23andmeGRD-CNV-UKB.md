@@ -8,7 +8,7 @@ date: 2019-06-09
 location: "Mountain View, CA"
 ---
 
-Talk (by application) on project to call copy-number variants in ~500,000 participants of the UK Biobank study. Now published in the [American Journal of Human Genetics](../publication/2019-08-01-Phenome-wide-burden-of-copy-number-variation-in-the-UK-biobank).
+Talk (by application) on project to call copy-number variants in ~500,000 participants of the UK Biobank study. Now published in the [American Journal of Human Genetics](../publication/2019-08-01-Phenome-wide-Burden-of-Copy-Number-Variation-in-the-UK-Biobank).
 
 Advisor: James Priest, Manuel Rivas
 
