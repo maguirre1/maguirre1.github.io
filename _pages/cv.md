@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Biomedical Informatics, Stanford University, 2024 (planned)
+* M.S. in Statistics, Stanford University, 2023 (planned, concurrent with PhD)
 * B.A. in Applied Mathematics, *cum laude*, Harvard University, 2017
 
 Work experience
