@@ -12,13 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Biomedical Informatics, Stanford University, 2024 (planned)
-* M.S. in Statistics, Stanford University, 2023 (planned, concurrent with PhD)
-* B.A. in Applied Mathematics, *cum laude*, Harvard University, 2017
+* M.S. in Statistics, Stanford University, 2023.
+* B.A. in Applied Mathematics, *cum laude*, Harvard University, 2017.
 
 Work experience
 ======
 * Fall 2019-Present: Ph.D student in Biomedical Informatics with [Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html), at Stanford University 
   * Currently working on network-based models to assess the genetic architecture of complex traits.
+  * Summer 2023: Bioinformatics Intern at [Guardant Health](https://guardanthealth.com). Performed application development for the [INFINITY](https://guardanthealth.com/guardantinfinity/) platform.
 
 * Fall 2017-Summer 2019: Research data analyst with [Manuel Rivas](https://med.stanford.edu/rivaslab.html) and [James Priest](https://priestlab.stanford.edu/), at Stanford University 
   * Conducted large-scale studies in genetic epidemiology and contributed to the [Global Biobank Engine](https://biobankengine.stanford.edu/).
