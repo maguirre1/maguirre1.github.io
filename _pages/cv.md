@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomedical Informatics, Stanford University, 2024 (planned)
+* Ph.D in Biomedical Informatics, Stanford University, 2025 (planned).
 * M.S. in Statistics, Stanford University, 2023.
 * B.A. in Applied Mathematics, *cum laude*, Harvard University, 2017.
 
@@ -26,12 +26,12 @@ Work experience
 
 * Summer 2015-Spring 2017: Undergraduate researcher in the [MacArthur Lab](https://macarthurlab.org/) and [Data Science Platform](https://www.broadinstitute.org/data-sciences-platform), at the Broad Institute of Harvard and MIT 
   * Contributed to data quality control for the [gnomAD](https://gnomad.broadinstitute.org/) project
-
-<!-- 
-Skills
+ 
+Awards
 ======
-* 
--->
+* Teaching Award, Stanford Department of Biomedical Data Science (2022)
+* PhD Fellowship, Microsoft Research (2021)
+* Reviewers' choice abstract, American Society of Human Genetics (ASHG) Annual Meeting (2020)
 
 Publications
 ======
@@ -50,8 +50,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<!--  
   
-Service and leadership
+Service
 ======
-* Currently signed in to 13 different slack teams -->
+* Student Representative, Stanford Department of Biomedical Data Science (2022-23)
+* Peer Mentor, Stanford Biosciences (2020-2022)
+* Research Mentor, Stanford Summer Research Program (SSRP, 2018)
