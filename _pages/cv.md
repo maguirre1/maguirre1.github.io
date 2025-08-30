@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomedical Informatics, Stanford University, 2025 (planned).
+* Ph.D in Biomedical Informatics, Stanford University, 2025.
 * M.S. in Statistics, Stanford University, 2023.
 * B.A. in Applied Mathematics, *cum laude*, Harvard University, 2017.
 
 Work experience
 ======
-* Fall 2019-Present: Ph.D student in Biomedical Informatics with [Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html), at Stanford University 
-  * Currently working on network-based models to assess the genetic architecture of complex traits.
+* Fall 2025-Present: Postdoctoral Fellow at Genentech, with [Mark McCarthy](https://www.gene.com/scientists/our-scientists/mark-mccarthy) and [Aviv Regev](https://www.gene.com/scientists/our-scientists/aviv-regev).
+
+* Fall 2019-Spring 2025: Ph.D student in Biomedical Informatics with [Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html), at Stanford University 
+  * Thesis: Modeling genetic and experimental perturbations to gene regulatory networks. 
   * Summer 2023: Bioinformatics Intern at [Guardant Health](https://guardanthealth.com). Performed application development for the [INFINITY](https://guardanthealth.com/guardantinfinity/) platform.
 
 * Fall 2017-Summer 2019: Research data analyst with [Manuel Rivas](https://med.stanford.edu/rivaslab.html) and [James Priest](https://priestlab.stanford.edu/), at Stanford University 
