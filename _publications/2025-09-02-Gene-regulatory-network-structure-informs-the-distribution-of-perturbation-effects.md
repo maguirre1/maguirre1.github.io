@@ -1,7 +1,7 @@
 ---
 title: "Gene regulatory network structure informs the distribution of perturbation effects"
 collection: publications
-permalink: /publication/2025-09-02-Gene-regulatory-network-structure-informs-the-distribution-of-perturbation-effects.md
+permalink: /publication/2025-09-02-Gene-regulatory-network-structure-informs-the-distribution-of-perturbation-effects
 date: 2025-09-02
 venue: 'PLoS Computational Biology'
 paperurl: 'https://doi.org/10.1371/journal.pcbi.1013387'

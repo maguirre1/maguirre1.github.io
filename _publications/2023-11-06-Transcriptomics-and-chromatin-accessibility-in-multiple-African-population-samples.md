@@ -1,7 +1,7 @@
 ---
 title: "Transcriptomics and chromatin accessibility in multiple African population samples"
 collection: publications
-permalink: /publication/2023-11-06-Transcriptomics-and-chromatin-accessibility-in-multiple-African-population-samples.md
+permalink: /publication/2023-11-06-Transcriptomics-and-chromatin-accessibility-in-multiple-African-population-samples
 date: 2023-11-06
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101%2F2023.11.04.564839'

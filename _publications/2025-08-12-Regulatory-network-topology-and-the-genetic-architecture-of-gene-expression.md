@@ -1,7 +1,7 @@
 ---
 title: "Regulatory network topology and the genetic architecture of gene expression"
 collection: publications
-permalink: /publication/2025-08-12-Regulatory-network-topology-and-the-genetic-architecture-of-gene-expression.md
+permalink: /publication/2025-08-12-Regulatory-network-topology-and-the-genetic-architecture-of-gene-expression
 date: 2025-08-12
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2025.08.12.669924'
